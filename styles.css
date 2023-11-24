@@ -126,7 +126,7 @@ nav ul li a {
 
 .sec2 {
   width: 100vw;
-  height: 900px;
+  height: 800px;
   margin-top: 20%;
 }
 
@@ -197,10 +197,8 @@ nav ul li a {
   background-size: 30%;
   background-repeat: no-repeat;
   width: 100vw;
-  height: 800px;
-  padding: 200px;
+  height: 400px;
   background-position: bottom 80px right 100px;
-  margin-bottom: 20%;
 }
 
 #page-6 {
@@ -223,7 +221,7 @@ nav ul li a {
 
 .sec7 {
   width: 100vw;
-  height: 500px;
+  height: 400px;
   background-image: url(assets/background-subcribe.png);
   background-size: 100%;
   background-repeat: no-repeat;
@@ -300,7 +298,6 @@ nav ul li a {
   align-items: center;
   width: 100vw;
   height: auto;
-  margin-bottom: 200px;
 }
 .first-two,
 .last-two {
