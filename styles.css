@@ -126,8 +126,8 @@ nav ul li a {
 
 .sec2 {
   width: 100vw;
-  height: 800px;
-  margin-top: 20%;
+  height: 900px;
+  background-color: #e9d5c9;
 }
 
 .sec2 h2 {
@@ -137,6 +137,7 @@ nav ul li a {
   font-weight: 900;
   text-shadow: 1px 1px 2px grey;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 7rem;
 }
 
 .sec2 #text_claim {
@@ -206,7 +207,7 @@ nav ul li a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #d3774f;
+  background-color: #dd9576;
 }
 #page6-text {
   width: 70%;
@@ -298,6 +299,8 @@ nav ul li a {
   align-items: center;
   width: 100vw;
   height: auto;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
 }
 .first-two,
 .last-two {
@@ -322,8 +325,8 @@ nav ul li a {
   border-radius: 30px;
   border: none;
   color: #542206;
-  width: 100px;
-  height: 50px;
+  width: 150px;
+  height: 40px;
 }
 .first-text-sec3 {
   background-color: #ecb57c;
